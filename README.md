@@ -338,16 +338,19 @@ CONTACTUS PAGE:
 ## OUTPUT:
 
 ### Home Page:
-![Alt text](<../home output.png>)
+file:///home/sec/fwad/ex07/home%20output.png![image](https://github.com/ILAIYADEEPAN/productcompanywebsite/assets/147473334/9049bd9e-20f4-4edf-a1dd-f9bfe4da140d)
 
 ## Product Page:
-![Alt text](<../product output.png>)
+file:///home/sec/fwad/ex07/product%20output.png![image](https://github.com/ILAIYADEEPAN/productcompanywebsite/assets/147473334/d4facc0c-4553-4a3f-a0cb-2f139fc73d38)
+
 
 ## People Page:
-![Alt text](<../people output.png>)
+file:///home/sec/fwad/ex07/people%20output.png![image](https://github.com/ILAIYADEEPAN/productcompanywebsite/assets/147473334/5ff901e3-04b1-4d4f-8119-3cb5b638ed4a)
+
 
 ## Contactus Page:
-![Alt text](<../contact output.png>)
+file:///home/sec/fwad/ex07/contact%20output.png![image](https://github.com/ILAIYADEEPAN/productcompanywebsite/assets/147473334/0d9c493c-10b9-4e38-92be-492bccceef1f)
+
 
 
 ## Result:
